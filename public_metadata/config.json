@@ -1,0 +1,7 @@
+{
+    "root_directory": "Insert your root directory",
+    "Raise exception if DQ issues found": "False",
+    "Remove pracs with incomplete info": "True",
+    "Path to manual reference file": "<insert path to manual ref file>",
+    "SQL connection string": ["<insert driver>", "<insert server>", "<insert database>", "<insert trusted connection {'yes','no}>"]
+}

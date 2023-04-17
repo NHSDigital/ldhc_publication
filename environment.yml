@@ -1,0 +1,9 @@
+name: ldhc
+
+dependencies:
+ - python == 3.7.6
+ - pandas == 1.2
+ - numpy == 1.18.1
+ - openpyxl == 3.0.9
+ - xlrd == 2.0.1
+ - pyodbc
